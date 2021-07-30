@@ -3,4 +3,4 @@
 # What time is it?
 
 This clock was made in a local beginner web development course.
-I've never manipulated a svg with JavaScript before, so I learned a lot from this small project. Check it out on Netlify!
+I've never manipulated a svg with JavaScript before, so I learned a lot from this small project. Check it out on [Netlify](https://thesvgclock.netlify.app/)!
